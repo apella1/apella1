@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @apella1. 
-- 👀 I’m interested in football and sitcoms. Well, developing stuff too. 
+- 👋 Hi, I’m John Apella.  
+- 👀 I’m interested in AI projects. 
 - 🌱 I’m currently learning full stack software engineering.
 - 💞️ I’m looking to collaborate on all ineteresting projects along the way. 
-- 📫 How to reach me. You can email me @johncollons5@gmail.com. 
+- 📫 How to reach me. You can email me @johncollons5@gmail.com. Twitter@apella_john. 
 
 <!---
 apella1/apella1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
