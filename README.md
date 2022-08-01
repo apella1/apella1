@@ -1,7 +1,7 @@
 - 👋 Hi, I’m John Apella.  
-- 👀 I’m interested in frontend web development and data science. 
-- 🌱 I’m currently learnig frontend web development. 
-- 💞️ I’m looking to collaborate on all ineteresting projects along the way. 
+- 👀 I’m a frontend web developer. 
+- 🌱 I’m currently learning React as I sharpen my frontend development skills. 
+- 💞️ Open to collaboration on frontend web development projects. 
 - 📫 How to reach me. You can email me @apellajohn@gmail.com. Twitter@apella_john. 
 
 <!---
