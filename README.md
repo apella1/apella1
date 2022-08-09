@@ -1,7 +1,7 @@
 - 👋 Hi, I’m John Apella.  
 - 👀 I’m a frontend web developer. 
 - 🌱 I’m currently learning React as I sharpen my frontend development skills. 
-- 💞️ Open to collaboration on frontend web development projects. 
+- 💞️ Open to frontend web development internship programs. 
 - 📫 How to reach me. You can email me @apellajohn@gmail.com. Twitter@apella_john. 
 
 <!---
