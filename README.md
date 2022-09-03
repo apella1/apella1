@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Apella.  
 - 👀 I’m a React developer. 
-- 🌱 I’m currently working on a few React projects. 
+- 🌱 I’m currently working on an e-commerce website implemented using React. 
 - 💞️ Open to frontend web development roles. 
 - 📫 You can email me: apellajohn@gmail.com. Twitter: @apella_john. 
 
