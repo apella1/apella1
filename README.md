@@ -2,7 +2,7 @@
 
 - 👀 I’m a Frontend developer.
 
-- 👀 Here is a portfolio of the projects I've been working on www.johnapella.me.
+- 👀 Here is a portfolio of the projects I've been working on. (www.johnapella.me).
  
 - 🌱 I’m currently working on an e-commerce website implemented using React. 
 
