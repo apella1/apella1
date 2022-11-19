@@ -2,13 +2,13 @@
 
 - 👀 I’m a Frontend developer.
 
-- 👀 Here is a portfolio of the projects I've been working on. (www.johnapella.me).
+- 👀 Here is a portfolio of the projects I've been working on. <a href='johnapella.me'>Portfolio Website</a>.
  
-- 🌱 I’m currently working on an e-commerce website implemented using React. 
+- 🌱 I’m currently learning NodeJS and Express. 
 
 - 💞️ Open to frontend web development roles. 
 
-- 📫 How to reach me: apellajohn@gmail.com. Twitter: @apella_john (My DM is open).
+- 📫 How to reach me: apellajohn@gmail.com. Twitter: @apella_john.
 
 <!---
 apella1/apella1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
