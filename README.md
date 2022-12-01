@@ -2,7 +2,7 @@
 
 - 👀 I’m a Frontend developer.
 
-- 👀 Here is a portfolio of the projects I've been working on. <a href='johnapella.me'>Portfolio Website</a>.
+- 👀 Here is a portfolio of the projects I've been working on. johnapella.me
  
 - 🌱 I’m currently learning NodeJS and Express. 
 
