@@ -1,12 +1,12 @@
 - 👋 Hi, I’m John Apella.  
 
-- 👀 I’m a Frontend developer.
+- 👀 I’m a Fullstack JavaScript and Python developer.
 
 - 👀 Here is a portfolio of the projects I've been working on. johnapella.me
  
 - 🌱 I’m currently learning NodeJS and Express. 
 
-- 💞️ Open to frontend web development roles. 
+- 💞️ Open to fullstack development roles. 
 
 - 📫 How to reach me: apellajohn@gmail.com. Twitter: @apella_john.
 
