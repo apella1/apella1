@@ -1,8 +1,6 @@
 - 👋 Hi, I’m John Apella.  
 
 - 👀 I’m a Fullstack JavaScript and Python developer.
-
-- 👀 Here is a portfolio of the projects I've been working on. johnapella.me
  
 - 🌱 I’m currently learning NodeJS and Express. 
 
