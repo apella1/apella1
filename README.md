@@ -1,12 +1,10 @@
 - 👋 Hi, I’m John Apella.  
 
-- 👀 I’m a Fullstack Developer working with TypeScript/JavaScript and Python Technologies.
- 
-- 🌱 I’m currently learning NodeJS and Express. 
+- 👀 I’m a Frontend Developer working with React(TypeScript/JavaScript).
 
-- 💞️ Open to fullstack development roles. 
+- 💞️ On a journey to landing my first frontend development role.
 
-- 📫 How to reach me: apellajohn@gmail.com. Twitter: @apella_john.
+- 📫 How to reach me: apellajohn@gmail.com. 
 
 <!---
 apella1/apella1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
