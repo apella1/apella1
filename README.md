@@ -48,7 +48,7 @@ I'm a frontend software engineer based in Nairobi, Kenya. I work with React, Nex
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/apella1"><img src="https://github-readme-stats.vercel.app/api?username=apella1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lemashon's GitHub stats" /></a>
+<a href="http://www.github.com/apella1"><img src="https://github-readme-stats.vercel.app/api?username=apella1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="John Apella's GitHub stats" /></a>
 
 <a href="http://www.github.com/apella1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=apella1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
