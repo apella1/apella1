@@ -2,7 +2,7 @@
 
 ## Frontend Software Engineer
 
-I'm a frontend software engineer based in Nairobi, Kenya. I work with React and Next.js. I'm currently learning backend development using Node, Express, MongoDB and Django(DRF). I have a background using HTML, CSS, TailwindCSS, JavaScript, TypeScript and Python. I enjoy exploring new technologies and finding ways to apply them to real-world problems.
+I'm a frontend software engineer based in Nairobi, Kenya. I work with React and Next.js. I'm currently learning backend development using Node, Express, MongoDB and Django(DRF). I use HTML, CSS, TailwindCSS, JavaScript, TypeScript and Python. I enjoy exploring new technologies and finding ways to apply them to real-world problems.
 
 - 👋 Hi, I’m John Apella!
 - 🌍 I'm a software engineer based in Nairobi, Kenya
