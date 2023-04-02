@@ -5,7 +5,7 @@
 I'm a frontend software engineer based in Nairobi, Kenya. I work with React and Next.js. I'm currently learning backend development using Node, Express, MongoDB and Django(DRF). 
 - 👋 Hi, I’m John Apella!
 - 🖥️ Check out my [portfolio](http://johnapella.me)
-- ✉️ You can contact me at [apellajohn@gmail.com](mailto:apellajohn@gmail.com)
+- ✉️ Contact me at [apellajohn@gmail.com](mailto:apellajohn@gmail.com)
 - 🤝 I'm open to collaborating on TypeScript projects.
 - 💞️ On a journey to landing my first software development role.
 - ⚡ When I'm not coding, I love playing football, basketball and occasionally chess. 
