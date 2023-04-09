@@ -7,7 +7,6 @@ I'm a frontend software engineer based in Nairobi, Kenya. I work with React and 
 - 🖥️ Check out my [portfolio](http://johnapella.me)
 - ✉️ Contact me at [apellajohn@gmail.com](mailto:apellajohn@gmail.com)
 - 🤝 I'm open to collaborating on TypeScript projects.
-- 💞️ On a journey to landing my first software development role.
 - ⚡ When I'm not coding, I love playing football, basketball and occasionally chess. 
 - ⚡ I'm open to community outreach programs. 
 
