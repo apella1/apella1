@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-I'm a software engineer based in Nairobi, Kenya. I work with React and Next. I'm currently learning backend development using Express and Django(DRF). 
+I'm a software engineer based in Nairobi, Kenya. I work with React, Next, Node and Express. I'm currently learning Web 3.0 Integration. 
 - 👋 Hi, I’m John Apella!
 - 🖥️ Check out my [portfolio](http://johnapella.me)
 - ✉️ Contact me at [apellajohn@gmail.com](mailto:apellajohn@gmail.com)
