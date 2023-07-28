@@ -43,7 +43,7 @@ I'm a software engineer based in Nairobi, Kenya. I work with React, Next, React 
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jebitok-dev/count.svg" />
+  <img src="https://profile-counter.glitch.me/apella1/count.svg" />
 </p>
 <!---
 apella1/apella1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
