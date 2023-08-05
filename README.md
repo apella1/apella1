@@ -1,6 +1,6 @@
 # Excited to connect with you!
 
-I'm a software engineer based in Nairobi, Kenya. I work with React, Next, React Native, Node and Express. 
+I'm a software engineer based in Nairobi, Kenya. I work with React, Next and Spring Boot. 
 - 👋 Hi, I’m John Apella!
 - 🖥️ Check out my [portfolio](http://johnapella.me)
 - ✉️ Contact me at [apellajohn@gmail.com](mailto:apellajohn@gmail.com)
