@@ -2,7 +2,7 @@
 
 I'm a software engineer based in Nairobi, Kenya. I work with React, Next and Spring Boot. 
 - 👋 Hi, I’m John Apella!
-- 🖥️ Check out my [portfolio](http://johnapella.me)
+- 🖥️ Check out my [portfolio](http://apela.vercel.app)
 - ✉️ Contact me at [apellajohn@gmail.com](mailto:apellajohn@gmail.com)
 - 🤝 I'm open to collaborating on React/Next.js/React Native and Spring Boot projects.
 - ⚡ When I'm not coding, I love playing football, basketball and occasionally chess. 
