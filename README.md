@@ -1,12 +1,8 @@
 # Excited to connect with you!
 
-I'm a software engineer based in Nairobi, Kenya. I work with React, Next and Django. 
-- 👋 Hi, I’m John Apella!
+- 👋 Hi, I’m John Apella, a software engineer specializing in API design and development. 
 - 🖥️ Check out my [portfolio](http://johnapella.tech)
 - ✉️ Contact me at [apellajohn@gmail.com](mailto:apellajohn@gmail.com)
-- 🤝 I'm open to collaborating on React and Django projects.
-- ⚡ When I'm not coding, I love playing football, basketball and occasionally chess. 
-- ⚡ I'm open to community outreach programs. 
 
 ### Skills 
 <p align="left">
@@ -20,8 +16,7 @@ I'm a software engineer based in Nairobi, Kenya. I work with React, Next and Dja
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
-                    
-
+                  
 
 ### Socials
 
