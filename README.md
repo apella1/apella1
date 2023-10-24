@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m John Apella, a software engineer specializing in API design and development. 
 - 🖥️ Check out my [portfolio](http://johnapella.tech)
-- ✉️ Contact me at [apellajohn@gmail.com](mailto:apellajohn@gmail.com)
 
 ### Skills 
 <p align="left">
