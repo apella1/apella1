@@ -1,6 +1,6 @@
 # Excited to connect with you!
 
-- 👋 Hi, I’m John Apella, a software engineer specializing in JavaScript technologies. 
+- I build things mostly using TypeScript and Python. 
 - 🖥️ Check out my [portfolio](http://johnapella.tech)
 
 ### Skills 
