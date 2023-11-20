@@ -1,6 +1,6 @@
 # Excited to connect with you!
 
-- 👋 Hi, I’m John Apella, a software engineer specializing in API design and development. 
+- 👋 Hi, I’m John Apella, a software engineer specializing in technologies around JavaScript including React, Next.js, Express and React Native. 
 - 🖥️ Check out my [portfolio](http://johnapella.tech)
 
 ### Skills 
