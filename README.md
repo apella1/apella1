@@ -1,7 +1,7 @@
 # Excited to connect with you!
 
 - I build things mostly using Go, TypeScript and Python. 
-- 🖥️ Check out my [portfolio](http://johnapella.tech)
+- 🖥️ Check out my [portfolio](http://www.johnapella.tech)
 
 ### Skills 
 <p align="left">
