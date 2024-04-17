@@ -1,6 +1,6 @@
 # Excited to connect with you!
 
-- I build things mostly using TypeScript. I also write some Java and Go.
+- I build things mostly using TypeScript. I also write Java and Go.
 - 🖥️ Check out my [portfolio](http://www.johnapella.tech)
 
 ### Skills 
