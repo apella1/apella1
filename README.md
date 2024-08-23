@@ -1,7 +1,7 @@
 # Excited to connect with you!
 
 - I build things using TypeScript.
-- 🖥️ Check out my [portfolio](http://www.johnapella.tech)
+- 🖥️ Check out my [portfolio](http://www.johnapella.tech/projects)
 
 ### Skills 
 <p align="left">
