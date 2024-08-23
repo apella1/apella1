@@ -1,6 +1,6 @@
 # Excited to connect with you!
 
-- 🖥️ Check out my portfolio <a href="http://www.johnapella.tech/projects" target="_blank">here</a>
+- 🖥️ Check out my <a href="http://www.johnapella.tech/projects" target="_blank">portfolio</a>
 
 
 ### Skills 
