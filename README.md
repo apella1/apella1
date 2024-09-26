@@ -1,6 +1,6 @@
 # Excited to connect with you!
 
-- 🖥️ Check out my <a href="http://www.johnapella.tech/projects" target="_blank">portfolio</a>
+- 🖥️ Check out my <a href="http://apella.vercel.app/projects" target="_blank">portfolio</a>
       
 
 ### Socials
