@@ -1,6 +1,6 @@
 # Excited to connect with you!
 
-- 🖥️ Check out my <a href="https:www.johnapella.com" target="_blank">portfolio</a>
+- 🖥️ Check out my <a href="https://www.johnapella.com/" target="_blank">portfolio</a>
       
 
 ### Socials
