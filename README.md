@@ -17,6 +17,14 @@
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="100" height="30"/>
 </p>
 
+## **Certifications 🏅**
+- [Google Cloud Certified: Associate Cloud Engineer](https://www.credential.net/credentials)
+
+👉 See all my certifications on [Credly](https://www.credly.com/users/john-apella)
+
+<p align="left">
+  <img src="https://images.credly.com/size/680x680/images/ae9a98c9-240b-47b1-9105-acd4f6b02c85/image.png" width="125" height="125">
+</p>
 
 - 🖥️ Check out my <a href="https://www.johnapella.com/" target="_blank">portfolio</a>
 
@@ -31,10 +39,8 @@
 
 <a href="https://github.com/apella1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apella1&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/apella1/count.svg" />
-</p>
+<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=apella1" alt="John Apella" /> <h2>
+
 <!---
 apella1/apella1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
