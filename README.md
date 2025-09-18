@@ -22,9 +22,6 @@
 
 👉 See all my certifications on [Credly](https://www.credly.com/users/john-apella)
 
-<p align="left">
-  <img src="https://images.credly.com/size/680x680/images/ae9a98c9-240b-47b1-9105-acd4f6b02c85/image.png" width="125" height="125">
-</p>
 
 - 🖥️ Check out my <a href="https://www.johnapella.com/" target="_blank">portfolio</a>
 
