@@ -3,7 +3,7 @@
 ## About Me
 - 🚀 DevOps Engineer specializing in GCP infrastructure and automation
 - 💻 Full-stack background with Spring Boot (Kotlin) and React
-- 🛠️ Passionate about bridging development and operations
+- 🛠️ Bridging development and operations
 - 📈 Experience in containerizing and deploying applications
 - 🔄 Building robust CI/CD pipelines for cloud-native applications
 
@@ -18,6 +18,7 @@
 </p>
 
 ## **Certifications 🏅**
+- [Google Cloud Certified: Professional Cloud Architect](https://www.credly.com/badges/5643cd43-4c8a-4282-a44d-de034671f0cc/public_url)
 - [Google Cloud Certified: Associate Cloud Engineer](https://www.credly.com/badges/b9c81d23-6fce-494c-8a69-99e97f2a2719/public_url)
 
 👉 See all my certifications on [Credly](https://www.credly.com/users/john-apella)
