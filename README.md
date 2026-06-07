@@ -1,11 +1,12 @@
 # Excited to connect with you!
 
 ## About Me
-- 🚀 DevOps Engineer specializing in GCP infrastructure and automation
-- 💻 Full-stack background with Spring Boot (Kotlin) and React
-- 🛠️ Bridging development and operations
-- 📈 Experience in containerizing and deploying applications
-- 🔄 Building robust CI/CD pipelines for cloud-native applications
+-  Cloud Security Engineer (Google Cloud Platform)
+-  DevOps Engineering background specializing in GCP infrastructure and automation
+-  Full-stack background with Spring Boot (Kotlin) and React
+-  Bridging development and operations
+-  Experience in containerizing and deploying applications
+-  Building robust CI/CD pipelines for cloud-native applications
 
 ## Tech Stack
 <p align="left">
